@@ -31,4 +31,10 @@
    </plugins>
   </build>
   
+  <properties>
+    <sonar.projectKey>hingantf_jenkins-sample</sonar.projectKey>
+    <sonar.organization>hingantf</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+  
 </project>
